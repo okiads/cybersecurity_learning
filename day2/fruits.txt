@@ -1,1 +1,1 @@
-apple\norange\napple\nbanana\norange
+apple\napple\nbanana\ncherry
