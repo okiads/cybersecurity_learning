@@ -1,8 +1,4 @@
-Hari 2: Advance Linux commands
-
-=================================
-
-#     • chmod - change permissions
+echo '#     • chmod - change permissions
 #     • chown - change owner
 #     • ps    - process status
 #     • kill  - terminate process
@@ -16,4 +12,4 @@ Hari 2: Advance Linux commands
 #     • tail  - show last lines
 #     • wc    - word count
 #     • sort  - sort lines
-#     • uniq  - remove duplicates
+#     • uniq  - remove duplicates' 
