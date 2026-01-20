@@ -5,3 +5,4 @@ Install Python, Git
 - Install Python, Git
 - Learn 10 basic commands
 Besok: Linux commands lanjutan
+Besok: Linux commands lanjutan

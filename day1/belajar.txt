@@ -1,1 +1,13 @@
 Hari 1: Linux dasar
+
+===============
+1. ls - list directory
+2. cd - change directory
+3. pwd - print working directory
+4. mkdir - make directory
+5. rm - remove
+6. cp - copy
+7. mv - move/rename
+8. cat - concatenate files
+9. nano - text editor
+10. chmod - change permissions
